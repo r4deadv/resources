@@ -8,13 +8,30 @@ Keeping track of helpful resources and interesting stuff
 - https://zerostack.dev/building-test-pyramid-in-react-dcc3b7db0065
 - https://blog.logrocket.com/solving-prop-drilling-react-apps/#:~:text=Context%20is%20primarily%20used%20when,a%20simpler%20solution%20than%20context
 - https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
+- https://www.jacobparis.com/blog/destructure-arguments
+- https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+- https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660
 
 ## Redux
 - https://blog.pusher.com/the-what-and-why-of-redux/
 - https://css-tricks.com/learning-react-redux/
 - https://redux.js.org/tutorials/fundamentals/part-4-store#middleware
 - https://redux.js.org/api/applymiddleware
-- 
+- https://medium.com/netscape/component-state-vs-redux-store-1eb0c929277
+- https://medium.com/@abhinav_jain123/react-redux-architecture-part-1-separation-of-concerns-812da3b08b46
+- https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559
+- https://stackoverflow.com/questions/38791974/asynchronous-api-calls-with-redux-saga
+- https://medium.com/@shoshanarosenfield/redux-thunk-vs-redux-saga-93fe82878b2d
+- https://blog.nojaf.com/2015/12/06/redux-thunk/
+- https://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux
+- https://medium.com/@gethylgeorge/understanding-how-redux-thunk-works-72de3bdebc50
+- https://redux.js.org/faq/organizing-state
+- https://redux.js.org/usage/structuring-reducers/normalizing-state-shape
+- https://blog.mapbox.com/redux-for-state-management-in-large-web-apps-c7f3fab3ce9b
+- https://medium.com/xandr-tech/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb
+- https://itnext.io/the-perils-of-using-a-common-redux-anti-pattern-344d778e59da
+- https://redux.js.org/usage/structuring-reducers/immutable-update-patterns
+- https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers#designing-the-state-shape
 
 ## JavaScript
 - https://javascript.info/event-loop
@@ -55,4 +72,3 @@ Keeping track of helpful resources and interesting stuff
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 - https://medium.com/swlh/asynchronous-javascript-in-depth-1e66c65f96fe
 - https://www.javascripttutorial.net/javascript-fetch-api/
-- 
