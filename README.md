@@ -73,5 +73,5 @@ Keeping track of helpful resources and interesting stuff
 - https://medium.com/swlh/asynchronous-javascript-in-depth-1e66c65f96fe
 - https://www.javascripttutorial.net/javascript-fetch-api/
 
-##Testing
+## Testing
 - https://egghead.io/lessons/javascript-track-project-code-coverage-with-jest
