@@ -72,3 +72,6 @@ Keeping track of helpful resources and interesting stuff
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 - https://medium.com/swlh/asynchronous-javascript-in-depth-1e66c65f96fe
 - https://www.javascripttutorial.net/javascript-fetch-api/
+
+##Testing
+- https://egghead.io/lessons/javascript-track-project-code-coverage-with-jest
